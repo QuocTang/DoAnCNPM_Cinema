@@ -1,0 +1,13 @@
+C:\Users\tanga\Desktop\quanlyrapphim\Project\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.exe.config
+C:\Users\tanga\Desktop\quanlyrapphim\Project\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.exe
+C:\Users\tanga\Desktop\quanlyrapphim\Project\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.pdb
+C:\Users\tanga\Desktop\quanlyrapphim\Project\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csprojAssemblyReference.cache
+C:\Users\tanga\Desktop\quanlyrapphim\Project\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.Properties.Resources.resources
+C:\Users\tanga\Desktop\quanlyrapphim\Project\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QTLogin.resources
+C:\Users\tanga\Desktop\quanlyrapphim\Project\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.GenerateResource.cache
+C:\Users\tanga\Desktop\quanlyrapphim\Project\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.CoreCompileInputs.cache
+C:\Users\tanga\Desktop\quanlyrapphim\Project\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.exe
+C:\Users\tanga\Desktop\quanlyrapphim\Project\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.pdb
+C:\Users\tanga\Desktop\quanlyrapphim\Project\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QTTableManager.resources
+C:\Users\tanga\Desktop\quanlyrapphim\Project\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QTAccountProfile.resources
+C:\Users\tanga\Desktop\quanlyrapphim\Project\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QTAdmin.resources
